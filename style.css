@@ -1,0 +1,88 @@
+
+#josias_picture {
+    height: auto;
+    width: auto;
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 50%;
+
+}
+
+.icon_size {
+    height: auto;
+    width: auto;
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.card {
+	background: #f2f4fb;
+	padding: 30px;
+	border-radius: 4px;
+	box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	max-width: 700px;
+	max-height: 500px;
+	margin: 90px;
+	text-align: center;
+}
+
+.skills_card {
+  background: #f2f4fb;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  max-width: 700px;
+  max-height: 500px;
+  margin: 90px;
+
+}
+
+
+.movie_picture {
+	height: auto;
+	width: auto;
+	max-width: 300px;
+	max-height: 300px;
+	border-radius: 5%;
+}
+
+.movie_cards {
+	background: #f2f4fb;
+	padding: 30px;
+	border-radius: 4px;
+	box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	max-width: 700px;
+	max-height: 1200px;
+	margin: 90px;
+}
+
+.inline li {
+  display: inline;
+  padding: 50px;
+}
+
+body{
+  background-color: #eaeff352;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+ }
+
+h2 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  text-shadow: "2px 2px #ff0000";
+ }
+h3 {
+  text-align: left;
+  font-family: 'PT Serif', serif;
+  text-shadow: "2px 2px #ff0000";
+ }
+
+ a:hover{
+  background-color: grey;
+ }
