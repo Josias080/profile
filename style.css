@@ -59,6 +59,37 @@
 	margin: 90px;
 }
 
+.side_icons {
+  margin-top: 70px;
+}
+
+.side_icons ul {
+  margin-left: 15px;
+  padding: 0px;
+}
+.side_icons li {
+  list-style-type: none;
+  margin-bottom: 50px;
+}
+
+.side_icons i {
+  font-size: 30px;
+  color: #F5F5F5;
+  text-align: center;
+}
+
+#sidebar {
+    position: fixed;
+    width: 60px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    background-color: #4d4e5af2;
+    margin: 0 auto;
+}
+
+
+
 .inline li {
   display: inline;
   padding: 50px;
